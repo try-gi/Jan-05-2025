@@ -1,17 +1,18 @@
 img{
     
-    width: 30%;
+    width: 200px;
     border-radius: 50%;
-    display: block;
+    display: flex;
     margin: auto;
     background-color: gray;
-    box-shadow: 20px 30px;
-      
+    box-shadow: 20px 30px blueviolet;
+    
     
 }
 .image-div{
     background-color: grey;
     height: 200px;
+    display: flex;
 }
 
 .profile{
@@ -28,7 +29,11 @@ img{
 }
 
 .detail{
-    height: 500px;
+    height: 400px;
+    width: 500px;
     border: 2px solid blue;
     background-color: rgb(158, 165, 163);
+    box-shadow: 20px 20px cornflowerblue;
+    margin: 100px;
+    
 }
