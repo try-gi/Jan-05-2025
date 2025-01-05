@@ -22,3 +22,41 @@ section{
     height: 100px;
     margin: 10px;
 }
+
+h1{
+    float: left;
+}
+
+h2{
+    clear: both;
+}
+
+.B{
+    color: brown;
+}
+
+#A{
+    color: blueviolet;
+}
+
+p  {
+    color: aqua;
+}
+
+
+
+/* [title=One]{
+    color: yellow;
+} */
+
+/* [title=Two]{
+    color: blueviolet;
+} */
+
+[title |="One"]{
+    color: red;
+}
+
+[title *="Two"]{
+    color: red;
+}
