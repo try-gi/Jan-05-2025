@@ -1,0 +1,37 @@
+li{
+    display: inline;
+    
+}
+
+ul{
+    text-align: right;
+    margin: 50px;
+    left: 50px;
+}
+
+img{
+    width: 50px;
+    border-radius: 500px;
+    top: 10px;
+    position: sticky;
+    /* bottom: 500px; */
+}
+
+nav{
+    background-color: green;
+    position: relative;
+    top: 50px;
+    position: sticky;
+    float: left;
+    
+}
+
+h1{
+    overflow-x: scroll;
+    overflow-y: auto;
+    
+}
+
+p{
+    clear:left;
+}
