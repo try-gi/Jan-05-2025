@@ -17,11 +17,13 @@ img{
 
 .profile{
     text-align: center;
+    text-shadow: 5px 5px green;
     
 }
 
 .Desc{
     float: left;
+    text-decoration: dotted;
 }
 
 .Address{
@@ -35,5 +37,11 @@ img{
     background-color: rgb(158, 165, 163);
     box-shadow: 20px 20px cornflowerblue;
     margin: 100px;
+    border-radius: 10%;
     
+}
+
+p.Address{
+    text-decoration:underline;
+    text-align: right;
 }
